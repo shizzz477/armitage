@@ -6,6 +6,3 @@ release
 *.jar
 *.tgz
 *.zip
-*.class
-bin
-lib/
