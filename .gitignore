@@ -5,8 +5,4 @@ dist
 release
 armitage.jar
 
-*.jar
-
-*.tgz
-
-*.zip
+cortana\.jar
