@@ -9,3 +9,5 @@ release
 *.class
 bin
 lib/
+
+cortana\.jar
