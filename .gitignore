@@ -1,9 +1,11 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea/
-armitage.iml
+*.iml
 dist
 release
-<<<<<<< HEAD
-armitage.jar
-=======
->>>>>>> 99c1ca8... loacal
+*.jar
+*.tgz
+*.zip
+*.class
+bin
+lib/
