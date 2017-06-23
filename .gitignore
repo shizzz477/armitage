@@ -1,7 +1,11 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea/
-armitage.iml
+*.iml
 dist
 release
-
-cortana\.jar
+*.jar
+*.tgz
+*.zip
+*.class
+bin
+lib/
