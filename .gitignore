@@ -6,6 +6,5 @@ release
 *.jar
 *.tgz
 *.zip
+*.class
 armitage.jar
-=======
->>>>>>> 99c1ca8... loacal
