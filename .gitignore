@@ -6,5 +6,4 @@ release
 *.jar
 *.tgz
 *.zip
-
-cortana\.jar
+armitage.jar
