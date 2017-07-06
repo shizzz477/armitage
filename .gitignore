@@ -1,9 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea/
 armitage.iml
-<<<<<<< HEAD
 dist
 release
-/armitage.jar
-=======
->>>>>>> loacal
+armitage.jar
