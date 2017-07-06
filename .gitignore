@@ -6,3 +6,9 @@ release
 *.jar
 *.tgz
 *.zip
+
+*.jar
+
+*.tgz
+
+*.zip
