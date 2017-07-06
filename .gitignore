@@ -4,3 +4,9 @@ armitage.iml
 dist
 release
 armitage.jar
+
+*.jar
+
+*.tgz
+
+*.zip
