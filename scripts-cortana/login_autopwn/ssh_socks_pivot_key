@@ -1,5 +1,6 @@
 -----BEGIN RSA PRIVATE KEY-----
 <<<<<<< refs/remotes/origin/local-master
+<<<<<<< refs/remotes/origin/local-master
 <<<<<<< HEAD
 MIIEpAIBAAKCAQEAuou+nKVijADnVkxWmbWiCxH+8Ldc5X5sUNEaPrvq1hRlsXBp
 qbOZFwrttQ38ySaUsNkedb6ysxIDxCagUQf5JV2Hl70j2KyH0L5mjt4ZPiCZGrJI
@@ -29,6 +30,8 @@ Ka4WhAECgYB3/O3YCqUijHYSmBlWUg7irnusBB0+PUPEHzbfDcRJh8feMfAjRl9K
 =======
 =======
 >>>>>>> Auto stash before merge of "local-master" and "origin/master"
+=======
+>>>>>>> Auto stash before merge of "local-master" and "origin/master"
 MIIEpQIBAAKCAQEAyg8bUKDSN+dd1frhpBQbwPdraRgDF4W7k20+Y42dIJW/y6IG
 u5ITT3mFZTTdJ+yfjS/4yDJXI+pZIE3xMWBuW+1oWbtZ6cuARmp+Ae+b1WfhLHBG
 MHTuIut8PqJs0usb7PKAACTddgV1ayBhYVOjQCvQ5ZLQioez0ESYmYo6yjrvMR5G
@@ -55,7 +58,10 @@ HCutk08SE5Du64S0S2pdVBJzmmiwtklLtrmC9iWI93RSbhhJJ2BghKdtzLuSVhAL
 eSGdyRRJeshy2jXeosIDfDOkYXgICifZD2sj38T68qts65+sYUdMm7oxVP/Va5SG
 tgRFCfhZI/qcsaGEaPtFaGt4e8wBmQ0QlP9Py6R7bQjE32TqpfIvDEQ=
 <<<<<<< refs/remotes/origin/local-master
+<<<<<<< refs/remotes/origin/local-master
 >>>>>>> master
+=======
+>>>>>>> Auto stash before merge of "local-master" and "origin/master"
 =======
 >>>>>>> Auto stash before merge of "local-master" and "origin/master"
 -----END RSA PRIVATE KEY-----
